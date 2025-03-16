@@ -7,7 +7,7 @@
 
   Learnly is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://always5436.github.io/content_lib/"><strong>➥ Live Demo</strong></a>
+  <a href="https://always5436.github.io/Project2_ContentLibrary/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
